@@ -10,4 +10,10 @@ public class MorseGenerator implements Menu{
 		System.out.println("MorseGenerator");
 	}
 
+	@Override
+	public void showDescription() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
